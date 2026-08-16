@@ -48,3 +48,4 @@ Install the required libraries:
 
 ```bash
 pip install streamlit pandas plotly
+streamlit run sales_dashboard_1.py
